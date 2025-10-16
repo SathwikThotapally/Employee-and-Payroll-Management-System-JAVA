@@ -121,7 +121,8 @@ Please Enter your choice from below
 
 ## 👤 Author
 
-* [Your Name](https://github.com/SathwikThotapally)
+* Sathwik Thotapally
+* Github: https://github.com/SathwikThotapally
 * Email: sathwikthotapally@gmail.com
 
 ---
